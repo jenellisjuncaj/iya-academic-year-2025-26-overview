@@ -1,7 +1,617 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T22:35:10.943Z",
+  "generatedAt": "2026-11-20T18:43:53.271Z",
   "terms": {
+    "fall": {
+      "rows": [
+        {
+          "id": "20253:10200",
+          "section": "10200",
+          "prefix": "ACAD",
+          "number": "174",
+          "title": "Innovators Forum",
+          "enrolled": 76,
+          "capacity": 90,
+          "credits": 2
+        },
+        {
+          "id": "20253:10201",
+          "section": "10201",
+          "prefix": "ACAD",
+          "number": "176",
+          "title": "Rapid Visualization",
+          "enrolled": 33,
+          "capacity": 34,
+          "credits": 4
+        },
+        {
+          "id": "20253:10202",
+          "section": "10202",
+          "prefix": "ACAD",
+          "number": "176",
+          "title": "Rapid Visualization",
+          "enrolled": 23,
+          "capacity": 32,
+          "credits": 4
+        },
+        {
+          "id": "20253:10204",
+          "section": "10204",
+          "prefix": "ACAD",
+          "number": "177",
+          "title": "Digital Toolbox: Design",
+          "enrolled": 10,
+          "capacity": 32,
+          "credits": 2
+        },
+        {
+          "id": "20253:10211",
+          "section": "10211",
+          "prefix": "ACAD",
+          "number": "182",
+          "title": "Case Studies in Innovation",
+          "enrolled": 18,
+          "capacity": 28,
+          "credits": 4
+        },
+        {
+          "id": "20253:10210",
+          "section": "10210",
+          "prefix": "ACAD",
+          "number": "183",
+          "title": "Product Management for Challenge-Based Innovation",
+          "enrolled": 66,
+          "capacity": 70,
+          "credits": 4
+        },
+        {
+          "id": "20253:10215",
+          "section": "10215",
+          "prefix": "ACAD",
+          "number": "188",
+          "title": "Modeling Products with Solidworks",
+          "enrolled": 28,
+          "capacity": 32,
+          "credits": 2
+        },
+        {
+          "id": "20253:10217",
+          "section": "10217",
+          "prefix": "ACAD",
+          "number": "189",
+          "title": "3D Tools for Product Design",
+          "enrolled": 22,
+          "capacity": 32,
+          "credits": 2
+        },
+        {
+          "id": "20253:10218",
+          "section": "10218",
+          "prefix": "ACAD",
+          "number": "190",
+          "title": "Making with Materials",
+          "enrolled": 35,
+          "capacity": 35,
+          "credits": 2
+        },
+        {
+          "id": "20253:10219",
+          "section": "10219",
+          "prefix": "ACAD",
+          "number": "191",
+          "title": "Python for Machine Intelligence",
+          "enrolled": 25,
+          "capacity": 30,
+          "credits": 2
+        },
+        {
+          "id": "20253:10225",
+          "section": "10225",
+          "prefix": "ACAD",
+          "number": "217",
+          "title": "Extended Reality Design",
+          "enrolled": 20,
+          "capacity": 30,
+          "credits": 4
+        },
+        {
+          "id": "20253:10227",
+          "section": "10227",
+          "prefix": "ACAD",
+          "number": "230",
+          "title": "Introduction to Interactive Physical Computing",
+          "enrolled": 39,
+          "capacity": 40,
+          "credits": 4
+        },
+        {
+          "id": "20253:10231",
+          "section": "10231",
+          "prefix": "ACAD",
+          "number": "245",
+          "title": "Fundamentals of Product Design",
+          "enrolled": 34,
+          "capacity": 35,
+          "credits": 4
+        },
+        {
+          "id": "20253:10238",
+          "section": "10238",
+          "prefix": "ACAD",
+          "number": "274",
+          "title": "Designing Interactive Data Systems",
+          "enrolled": 30,
+          "capacity": 32,
+          "credits": 4
+        },
+        {
+          "id": "20253:10242",
+          "section": "10242",
+          "prefix": "ACAD",
+          "number": "276",
+          "title": "Dev II",
+          "enrolled": 15,
+          "capacity": 40,
+          "credits": 4
+        },
+        {
+          "id": "20253:10253",
+          "section": "10253",
+          "prefix": "ACAD",
+          "number": "309",
+          "title": "Dreams and Madness: The Art of Japan's Golden Age of Animation",
+          "enrolled": 93,
+          "capacity": 93,
+          "credits": 4
+        },
+        {
+          "id": "20253:10248",
+          "section": "10248",
+          "prefix": "ACAD",
+          "number": "324",
+          "title": "The Practice of Design: Ideation to Innovation",
+          "enrolled": 39,
+          "capacity": 39,
+          "credits": 4
+        },
+        {
+          "id": "20253:10249",
+          "section": "10249",
+          "prefix": "ACAD",
+          "number": "324",
+          "title": "The Practice of Design: Ideation to Innovation",
+          "enrolled": 27,
+          "capacity": 27,
+          "credits": 4
+        },
+        {
+          "id": "20253:10250",
+          "section": "10250",
+          "prefix": "ACAD",
+          "number": "325",
+          "title": "Human Technology Interaction and the User Experience",
+          "enrolled": 48,
+          "capacity": 60,
+          "credits": 4
+        },
+        {
+          "id": "20253:10269",
+          "section": "10269",
+          "prefix": "ACAD",
+          "number": "376",
+          "title": "Industry Practicum I: Designing and Implementing  Real-World Solutions",
+          "enrolled": 41,
+          "capacity": 49,
+          "credits": 4
+        },
+        {
+          "id": "20253:10256",
+          "section": "10256",
+          "prefix": "ACAD",
+          "number": "406",
+          "title": "Purpose-Driven Innovation Incubator",
+          "enrolled": 25,
+          "capacity": 30,
+          "credits": 2
+        },
+        {
+          "id": "20253:10257",
+          "section": "10257",
+          "prefix": "ACAD",
+          "number": "406",
+          "title": "Purpose-Driven Innovation Incubator",
+          "enrolled": 19,
+          "capacity": 25,
+          "credits": 2
+        },
+        {
+          "id": "20253:10259",
+          "section": "10259",
+          "prefix": "ACAD",
+          "number": "419",
+          "title": "Professional Internship",
+          "enrolled": 2,
+          "capacity": 5,
+          "credits": null
+        },
+        {
+          "id": "20253:10276",
+          "section": "10276",
+          "prefix": "ACAD",
+          "number": "419",
+          "title": "Professional Internship",
+          "enrolled": 5,
+          "capacity": 6,
+          "credits": null
+        },
+        {
+          "id": "20253:10280",
+          "section": "10280",
+          "prefix": "ACAD",
+          "number": "444",
+          "title": "Designing Products for Industry",
+          "enrolled": 28,
+          "capacity": 32,
+          "credits": 4
+        },
+        {
+          "id": "20253:10286",
+          "section": "10286",
+          "prefix": "ACAD",
+          "number": "475A",
+          "title": "The Garage Experience",
+          "enrolled": 40,
+          "capacity": 47,
+          "credits": 4
+        },
+        {
+          "id": "20253:34076",
+          "section": "34076",
+          "prefix": "IDSN",
+          "number": "521",
+          "title": "Designing Brand Identity for Startups",
+          "enrolled": 21,
+          "capacity": 30,
+          "credits": 2
+        },
+        {
+          "id": "20253:34169",
+          "section": "34169",
+          "prefix": "IDSN",
+          "number": "581",
+          "title": "Introduction to the Global Fashion System",
+          "enrolled": 18,
+          "capacity": 25,
+          "credits": 2
+        },
+        {
+          "id": "20253:10295",
+          "section": "10295",
+          "prefix": "ACAD",
+          "number": "599",
+          "title": "Special Topics ",
+          "enrolled": 8,
+          "capacity": 40,
+          "credits": 4
+        },
+        {
+          "id": "20253:10296",
+          "section": "10296",
+          "prefix": "ACAD",
+          "number": "599",
+          "title": "Special Topics ",
+          "enrolled": 22,
+          "capacity": 40,
+          "credits": 4
+        },
+        {
+          "id": "20253:34062",
+          "section": "34062",
+          "prefix": "IDSN",
+          "number": "515",
+          "title": "Professional Practices Residential",
+          "enrolled": 36,
+          "capacity": 40,
+          "credits": 2
+        },
+        {
+          "id": "20253:34079",
+          "section": "34079",
+          "prefix": "IDSN",
+          "number": "524",
+          "title": "Physical Product Design",
+          "enrolled": 24,
+          "capacity": 25,
+          "credits": 4
+        },
+        {
+          "id": "20253:34077",
+          "section": "34077",
+          "prefix": "IDSN",
+          "number": "524",
+          "title": "Physical Product Design",
+          "enrolled": 18,
+          "capacity": 25,
+          "credits": 4
+        },
+        {
+          "id": "20253:34091",
+          "section": "34091",
+          "prefix": "IDSN",
+          "number": "529",
+          "title": "Marketing Strategy for Startups",
+          "enrolled": 33,
+          "capacity": 36,
+          "credits": 3
+        },
+        {
+          "id": "20253:34064",
+          "section": "34064",
+          "prefix": "IDSN",
+          "number": "531",
+          "title": "Front End Web Programming",
+          "enrolled": 13,
+          "capacity": 30,
+          "credits": 2
+        },
+        {
+          "id": "20253:34094",
+          "section": "34094",
+          "prefix": "IDSN",
+          "number": "538",
+          "title": "Extended Reality Technologies",
+          "enrolled": 28,
+          "capacity": 30,
+          "credits": 2
+        },
+        {
+          "id": "20253:34101",
+          "section": "34101",
+          "prefix": "IDSN",
+          "number": "540",
+          "title": "Processes and Perspectives",
+          "enrolled": 39,
+          "capacity": 55,
+          "credits": 4
+        },
+        {
+          "id": "20253:34080",
+          "section": "34080",
+          "prefix": "IDSN",
+          "number": "540",
+          "title": "Processes and Perspectives",
+          "enrolled": 24,
+          "capacity": 35,
+          "credits": 4
+        },
+        {
+          "id": "20253:34198",
+          "section": "34198",
+          "prefix": "IDSN",
+          "number": "542",
+          "title": "Introduction to Machine Intelligence",
+          "enrolled": 31,
+          "capacity": 31,
+          "credits": 4
+        },
+        {
+          "id": "20253:34197",
+          "section": "34197",
+          "prefix": "IDSN",
+          "number": "542",
+          "title": "Introduction to Machine Intelligence",
+          "enrolled": 23,
+          "capacity": 30,
+          "credits": 4
+        },
+        {
+          "id": "20253:34782",
+          "section": "34782",
+          "prefix": "PRIN",
+          "number": "550",
+          "title": "Industry and Impact Projects",
+          "enrolled": 28,
+          "capacity": 30,
+          "credits": 2
+        },
+        {
+          "id": "20253:34167",
+          "section": "34167",
+          "prefix": "IDSN",
+          "number": "577",
+          "title": "Finance for Entrepreneurs",
+          "enrolled": 10,
+          "capacity": 20,
+          "credits": 3
+        },
+        {
+          "id": "20253:34147",
+          "section": "34147",
+          "prefix": "IDSN",
+          "number": "577",
+          "title": "Finance for Entrepreneurs",
+          "enrolled": 17,
+          "capacity": 30,
+          "credits": 3
+        },
+        {
+          "id": "20253:34189",
+          "section": "34189",
+          "prefix": "IDSN",
+          "number": "590",
+          "title": "Directed Research",
+          "enrolled": 1,
+          "capacity": 1,
+          "credits": null
+        },
+        {
+          "id": "20253:34190",
+          "section": "34190",
+          "prefix": "IDSN",
+          "number": "590",
+          "title": "Directed Research",
+          "enrolled": 2,
+          "capacity": 2,
+          "credits": null
+        },
+        {
+          "id": "20253:34172",
+          "section": "34172",
+          "prefix": "IDSN",
+          "number": "590",
+          "title": "Directed Research",
+          "enrolled": 1,
+          "capacity": 1,
+          "credits": null
+        },
+        {
+          "id": "20253:34173",
+          "section": "34173",
+          "prefix": "IDSN",
+          "number": "590",
+          "title": "Directed Research",
+          "enrolled": 0,
+          "capacity": 1,
+          "credits": null
+        },
+        {
+          "id": "20253:34174",
+          "section": "34174",
+          "prefix": "IDSN",
+          "number": "590",
+          "title": "Directed Research",
+          "enrolled": 1,
+          "capacity": 1,
+          "credits": null
+        },
+        {
+          "id": "20253:34175",
+          "section": "34175",
+          "prefix": "IDSN",
+          "number": "590",
+          "title": "Directed Research",
+          "enrolled": 3,
+          "capacity": 3,
+          "credits": null
+        },
+        {
+          "id": "20253:34181",
+          "section": "34181",
+          "prefix": "IDSN",
+          "number": "590",
+          "title": "Directed Research",
+          "enrolled": 1,
+          "capacity": 5,
+          "credits": null
+        },
+        {
+          "id": "20253:34152",
+          "section": "34152",
+          "prefix": "IDSN",
+          "number": "599",
+          "title": "Special Topics",
+          "enrolled": 14,
+          "capacity": 20,
+          "credits": 4
+        },
+        {
+          "id": "20253:34141",
+          "section": "34141",
+          "prefix": "IDSN",
+          "number": "599",
+          "title": "Special Topics",
+          "enrolled": 35,
+          "capacity": 46,
+          "credits": 4
+        },
+        {
+          "id": "20253:34151",
+          "section": "34151",
+          "prefix": "IDSN",
+          "number": "599",
+          "title": "Special Topics",
+          "enrolled": 34,
+          "capacity": 37,
+          "credits": 2
+        },
+        {
+          "id": "20253:34161",
+          "section": "34161",
+          "prefix": "IDSN",
+          "number": "599",
+          "title": "Special Topics",
+          "enrolled": 37,
+          "capacity": 38,
+          "credits": 2
+        },
+        {
+          "id": "20253:34159",
+          "section": "34159",
+          "prefix": "IDSN",
+          "number": "599",
+          "title": "Special Topics",
+          "enrolled": 11,
+          "capacity": 20,
+          "credits": 4
+        },
+        {
+          "id": "20253:34146",
+          "section": "34146",
+          "prefix": "IDSN",
+          "number": "599",
+          "title": "Special Topics",
+          "enrolled": 27,
+          "capacity": 30,
+          "credits": 4
+        },
+        {
+          "id": "20253:34072",
+          "section": "34072",
+          "prefix": "IDSN",
+          "number": "599",
+          "title": "Special Topics",
+          "enrolled": 7,
+          "capacity": 30,
+          "credits": 4
+        },
+        {
+          "id": "20253:34158",
+          "section": "34158",
+          "prefix": "IDSN",
+          "number": "599",
+          "title": "Special Topics",
+          "enrolled": 22,
+          "capacity": 35,
+          "credits": 2
+        },
+        {
+          "id": "20253:34162",
+          "section": "34162",
+          "prefix": "IDSN",
+          "number": "599",
+          "title": "Special Topics",
+          "enrolled": 14,
+          "capacity": 30,
+          "credits": 2
+        }
+      ],
+      "totals": {
+        "enrollment": 1444,
+        "capacity": 1857,
+        "available": 413,
+        "sections": 59,
+        "sch": 4670,
+        "omittedSections": 9,
+        "omittedEnrollment": 16
+      },
+      "excluded": [],
+      "code": 20253,
+      "label": "Fall 2025",
+      "url": "https://classes.usc.edu/term/20253/catalogue/school",
+      "snapshotAt": "2026-11-20T18:43:51.539Z",
+      "snapshot": "11/20/2026, 10:43:51 AM PST",
+      "error": null
+    },
     "spring": {
       "rows": [
         {
@@ -698,618 +1308,8 @@
       "code": 20261,
       "label": "Spring 2026",
       "url": "https://classes.usc.edu/term/20261/catalogue/school",
-      "snapshotAt": "2026-11-19T22:35:10.832Z",
-      "snapshot": "11/19/2026, 2:35:10 PM PST",
-      "error": null
-    },
-    "fall": {
-      "rows": [
-        {
-          "id": "20253:10200",
-          "section": "10200",
-          "prefix": "ACAD",
-          "number": "174",
-          "title": "Innovators Forum",
-          "enrolled": 76,
-          "capacity": 90,
-          "credits": 2
-        },
-        {
-          "id": "20253:10201",
-          "section": "10201",
-          "prefix": "ACAD",
-          "number": "176",
-          "title": "Rapid Visualization",
-          "enrolled": 33,
-          "capacity": 34,
-          "credits": 4
-        },
-        {
-          "id": "20253:10202",
-          "section": "10202",
-          "prefix": "ACAD",
-          "number": "176",
-          "title": "Rapid Visualization",
-          "enrolled": 23,
-          "capacity": 32,
-          "credits": 4
-        },
-        {
-          "id": "20253:10204",
-          "section": "10204",
-          "prefix": "ACAD",
-          "number": "177",
-          "title": "Digital Toolbox: Design",
-          "enrolled": 10,
-          "capacity": 32,
-          "credits": 2
-        },
-        {
-          "id": "20253:10211",
-          "section": "10211",
-          "prefix": "ACAD",
-          "number": "182",
-          "title": "Case Studies in Innovation",
-          "enrolled": 18,
-          "capacity": 28,
-          "credits": 4
-        },
-        {
-          "id": "20253:10210",
-          "section": "10210",
-          "prefix": "ACAD",
-          "number": "183",
-          "title": "Product Management for Challenge-Based Innovation",
-          "enrolled": 66,
-          "capacity": 70,
-          "credits": 4
-        },
-        {
-          "id": "20253:10215",
-          "section": "10215",
-          "prefix": "ACAD",
-          "number": "188",
-          "title": "Modeling Products with Solidworks",
-          "enrolled": 28,
-          "capacity": 32,
-          "credits": 2
-        },
-        {
-          "id": "20253:10217",
-          "section": "10217",
-          "prefix": "ACAD",
-          "number": "189",
-          "title": "3D Tools for Product Design",
-          "enrolled": 22,
-          "capacity": 32,
-          "credits": 2
-        },
-        {
-          "id": "20253:10218",
-          "section": "10218",
-          "prefix": "ACAD",
-          "number": "190",
-          "title": "Making with Materials",
-          "enrolled": 35,
-          "capacity": 35,
-          "credits": 2
-        },
-        {
-          "id": "20253:10219",
-          "section": "10219",
-          "prefix": "ACAD",
-          "number": "191",
-          "title": "Python for Machine Intelligence",
-          "enrolled": 25,
-          "capacity": 30,
-          "credits": 2
-        },
-        {
-          "id": "20253:10225",
-          "section": "10225",
-          "prefix": "ACAD",
-          "number": "217",
-          "title": "Extended Reality Design",
-          "enrolled": 20,
-          "capacity": 30,
-          "credits": 4
-        },
-        {
-          "id": "20253:10227",
-          "section": "10227",
-          "prefix": "ACAD",
-          "number": "230",
-          "title": "Introduction to Interactive Physical Computing",
-          "enrolled": 39,
-          "capacity": 40,
-          "credits": 4
-        },
-        {
-          "id": "20253:10231",
-          "section": "10231",
-          "prefix": "ACAD",
-          "number": "245",
-          "title": "Fundamentals of Product Design",
-          "enrolled": 34,
-          "capacity": 35,
-          "credits": 4
-        },
-        {
-          "id": "20253:10238",
-          "section": "10238",
-          "prefix": "ACAD",
-          "number": "274",
-          "title": "Designing Interactive Data Systems",
-          "enrolled": 30,
-          "capacity": 32,
-          "credits": 4
-        },
-        {
-          "id": "20253:10242",
-          "section": "10242",
-          "prefix": "ACAD",
-          "number": "276",
-          "title": "Dev II",
-          "enrolled": 15,
-          "capacity": 40,
-          "credits": 4
-        },
-        {
-          "id": "20253:10253",
-          "section": "10253",
-          "prefix": "ACAD",
-          "number": "309",
-          "title": "Dreams and Madness: The Art of Japan's Golden Age of Animation",
-          "enrolled": 93,
-          "capacity": 93,
-          "credits": 4
-        },
-        {
-          "id": "20253:10248",
-          "section": "10248",
-          "prefix": "ACAD",
-          "number": "324",
-          "title": "The Practice of Design: Ideation to Innovation",
-          "enrolled": 39,
-          "capacity": 39,
-          "credits": 4
-        },
-        {
-          "id": "20253:10249",
-          "section": "10249",
-          "prefix": "ACAD",
-          "number": "324",
-          "title": "The Practice of Design: Ideation to Innovation",
-          "enrolled": 27,
-          "capacity": 27,
-          "credits": 4
-        },
-        {
-          "id": "20253:10250",
-          "section": "10250",
-          "prefix": "ACAD",
-          "number": "325",
-          "title": "Human Technology Interaction and the User Experience",
-          "enrolled": 48,
-          "capacity": 60,
-          "credits": 4
-        },
-        {
-          "id": "20253:10269",
-          "section": "10269",
-          "prefix": "ACAD",
-          "number": "376",
-          "title": "Industry Practicum I: Designing and Implementing  Real-World Solutions",
-          "enrolled": 41,
-          "capacity": 49,
-          "credits": 4
-        },
-        {
-          "id": "20253:10256",
-          "section": "10256",
-          "prefix": "ACAD",
-          "number": "406",
-          "title": "Purpose-Driven Innovation Incubator",
-          "enrolled": 25,
-          "capacity": 30,
-          "credits": 2
-        },
-        {
-          "id": "20253:10257",
-          "section": "10257",
-          "prefix": "ACAD",
-          "number": "406",
-          "title": "Purpose-Driven Innovation Incubator",
-          "enrolled": 19,
-          "capacity": 25,
-          "credits": 2
-        },
-        {
-          "id": "20253:10259",
-          "section": "10259",
-          "prefix": "ACAD",
-          "number": "419",
-          "title": "Professional Internship",
-          "enrolled": 2,
-          "capacity": 5,
-          "credits": null
-        },
-        {
-          "id": "20253:10276",
-          "section": "10276",
-          "prefix": "ACAD",
-          "number": "419",
-          "title": "Professional Internship",
-          "enrolled": 5,
-          "capacity": 6,
-          "credits": null
-        },
-        {
-          "id": "20253:10280",
-          "section": "10280",
-          "prefix": "ACAD",
-          "number": "444",
-          "title": "Designing Products for Industry",
-          "enrolled": 28,
-          "capacity": 32,
-          "credits": 4
-        },
-        {
-          "id": "20253:10286",
-          "section": "10286",
-          "prefix": "ACAD",
-          "number": "475A",
-          "title": "The Garage Experience",
-          "enrolled": 40,
-          "capacity": 47,
-          "credits": 4
-        },
-        {
-          "id": "20253:34076",
-          "section": "34076",
-          "prefix": "IDSN",
-          "number": "521",
-          "title": "Designing Brand Identity for Startups",
-          "enrolled": 21,
-          "capacity": 30,
-          "credits": 2
-        },
-        {
-          "id": "20253:34169",
-          "section": "34169",
-          "prefix": "IDSN",
-          "number": "581",
-          "title": "Introduction to the Global Fashion System",
-          "enrolled": 18,
-          "capacity": 25,
-          "credits": 2
-        },
-        {
-          "id": "20253:10295",
-          "section": "10295",
-          "prefix": "ACAD",
-          "number": "599",
-          "title": "Special Topics ",
-          "enrolled": 8,
-          "capacity": 40,
-          "credits": 4
-        },
-        {
-          "id": "20253:10296",
-          "section": "10296",
-          "prefix": "ACAD",
-          "number": "599",
-          "title": "Special Topics ",
-          "enrolled": 22,
-          "capacity": 40,
-          "credits": 4
-        },
-        {
-          "id": "20253:34062",
-          "section": "34062",
-          "prefix": "IDSN",
-          "number": "515",
-          "title": "Professional Practices Residential",
-          "enrolled": 36,
-          "capacity": 40,
-          "credits": 2
-        },
-        {
-          "id": "20253:34079",
-          "section": "34079",
-          "prefix": "IDSN",
-          "number": "524",
-          "title": "Physical Product Design",
-          "enrolled": 24,
-          "capacity": 25,
-          "credits": 4
-        },
-        {
-          "id": "20253:34077",
-          "section": "34077",
-          "prefix": "IDSN",
-          "number": "524",
-          "title": "Physical Product Design",
-          "enrolled": 18,
-          "capacity": 25,
-          "credits": 4
-        },
-        {
-          "id": "20253:34091",
-          "section": "34091",
-          "prefix": "IDSN",
-          "number": "529",
-          "title": "Marketing Strategy for Startups",
-          "enrolled": 33,
-          "capacity": 36,
-          "credits": 3
-        },
-        {
-          "id": "20253:34064",
-          "section": "34064",
-          "prefix": "IDSN",
-          "number": "531",
-          "title": "Front End Web Programming",
-          "enrolled": 13,
-          "capacity": 30,
-          "credits": 2
-        },
-        {
-          "id": "20253:34094",
-          "section": "34094",
-          "prefix": "IDSN",
-          "number": "538",
-          "title": "Extended Reality Technologies",
-          "enrolled": 28,
-          "capacity": 30,
-          "credits": 2
-        },
-        {
-          "id": "20253:34101",
-          "section": "34101",
-          "prefix": "IDSN",
-          "number": "540",
-          "title": "Processes and Perspectives",
-          "enrolled": 39,
-          "capacity": 55,
-          "credits": 4
-        },
-        {
-          "id": "20253:34080",
-          "section": "34080",
-          "prefix": "IDSN",
-          "number": "540",
-          "title": "Processes and Perspectives",
-          "enrolled": 24,
-          "capacity": 35,
-          "credits": 4
-        },
-        {
-          "id": "20253:34198",
-          "section": "34198",
-          "prefix": "IDSN",
-          "number": "542",
-          "title": "Introduction to Machine Intelligence",
-          "enrolled": 31,
-          "capacity": 31,
-          "credits": 4
-        },
-        {
-          "id": "20253:34197",
-          "section": "34197",
-          "prefix": "IDSN",
-          "number": "542",
-          "title": "Introduction to Machine Intelligence",
-          "enrolled": 23,
-          "capacity": 30,
-          "credits": 4
-        },
-        {
-          "id": "20253:34782",
-          "section": "34782",
-          "prefix": "PRIN",
-          "number": "550",
-          "title": "Industry and Impact Projects",
-          "enrolled": 28,
-          "capacity": 30,
-          "credits": 2
-        },
-        {
-          "id": "20253:34167",
-          "section": "34167",
-          "prefix": "IDSN",
-          "number": "577",
-          "title": "Finance for Entrepreneurs",
-          "enrolled": 10,
-          "capacity": 20,
-          "credits": 3
-        },
-        {
-          "id": "20253:34147",
-          "section": "34147",
-          "prefix": "IDSN",
-          "number": "577",
-          "title": "Finance for Entrepreneurs",
-          "enrolled": 17,
-          "capacity": 30,
-          "credits": 3
-        },
-        {
-          "id": "20253:34189",
-          "section": "34189",
-          "prefix": "IDSN",
-          "number": "590",
-          "title": "Directed Research",
-          "enrolled": 1,
-          "capacity": 1,
-          "credits": null
-        },
-        {
-          "id": "20253:34190",
-          "section": "34190",
-          "prefix": "IDSN",
-          "number": "590",
-          "title": "Directed Research",
-          "enrolled": 2,
-          "capacity": 2,
-          "credits": null
-        },
-        {
-          "id": "20253:34172",
-          "section": "34172",
-          "prefix": "IDSN",
-          "number": "590",
-          "title": "Directed Research",
-          "enrolled": 1,
-          "capacity": 1,
-          "credits": null
-        },
-        {
-          "id": "20253:34173",
-          "section": "34173",
-          "prefix": "IDSN",
-          "number": "590",
-          "title": "Directed Research",
-          "enrolled": 0,
-          "capacity": 1,
-          "credits": null
-        },
-        {
-          "id": "20253:34174",
-          "section": "34174",
-          "prefix": "IDSN",
-          "number": "590",
-          "title": "Directed Research",
-          "enrolled": 1,
-          "capacity": 1,
-          "credits": null
-        },
-        {
-          "id": "20253:34175",
-          "section": "34175",
-          "prefix": "IDSN",
-          "number": "590",
-          "title": "Directed Research",
-          "enrolled": 3,
-          "capacity": 3,
-          "credits": null
-        },
-        {
-          "id": "20253:34181",
-          "section": "34181",
-          "prefix": "IDSN",
-          "number": "590",
-          "title": "Directed Research",
-          "enrolled": 1,
-          "capacity": 5,
-          "credits": null
-        },
-        {
-          "id": "20253:34152",
-          "section": "34152",
-          "prefix": "IDSN",
-          "number": "599",
-          "title": "Special Topics",
-          "enrolled": 14,
-          "capacity": 20,
-          "credits": 4
-        },
-        {
-          "id": "20253:34141",
-          "section": "34141",
-          "prefix": "IDSN",
-          "number": "599",
-          "title": "Special Topics",
-          "enrolled": 35,
-          "capacity": 46,
-          "credits": 4
-        },
-        {
-          "id": "20253:34151",
-          "section": "34151",
-          "prefix": "IDSN",
-          "number": "599",
-          "title": "Special Topics",
-          "enrolled": 34,
-          "capacity": 37,
-          "credits": 2
-        },
-        {
-          "id": "20253:34161",
-          "section": "34161",
-          "prefix": "IDSN",
-          "number": "599",
-          "title": "Special Topics",
-          "enrolled": 37,
-          "capacity": 38,
-          "credits": 2
-        },
-        {
-          "id": "20253:34159",
-          "section": "34159",
-          "prefix": "IDSN",
-          "number": "599",
-          "title": "Special Topics",
-          "enrolled": 11,
-          "capacity": 20,
-          "credits": 4
-        },
-        {
-          "id": "20253:34146",
-          "section": "34146",
-          "prefix": "IDSN",
-          "number": "599",
-          "title": "Special Topics",
-          "enrolled": 27,
-          "capacity": 30,
-          "credits": 4
-        },
-        {
-          "id": "20253:34072",
-          "section": "34072",
-          "prefix": "IDSN",
-          "number": "599",
-          "title": "Special Topics",
-          "enrolled": 7,
-          "capacity": 30,
-          "credits": 4
-        },
-        {
-          "id": "20253:34158",
-          "section": "34158",
-          "prefix": "IDSN",
-          "number": "599",
-          "title": "Special Topics",
-          "enrolled": 22,
-          "capacity": 35,
-          "credits": 2
-        },
-        {
-          "id": "20253:34162",
-          "section": "34162",
-          "prefix": "IDSN",
-          "number": "599",
-          "title": "Special Topics",
-          "enrolled": 14,
-          "capacity": 30,
-          "credits": 2
-        }
-      ],
-      "totals": {
-        "enrollment": 1444,
-        "capacity": 1857,
-        "available": 413,
-        "sections": 59,
-        "sch": 4670,
-        "omittedSections": 9,
-        "omittedEnrollment": 16
-      },
-      "excluded": [],
-      "code": 20253,
-      "label": "Fall 2025",
-      "url": "https://classes.usc.edu/term/20253/catalogue/school",
-      "snapshotAt": "2026-11-19T22:35:10.862Z",
-      "snapshot": "11/19/2026, 2:35:10 PM PST",
+      "snapshotAt": "2026-11-20T18:43:53.202Z",
+      "snapshot": "11/20/2026, 10:43:53 AM PST",
       "error": null
     },
     "summer": {
@@ -1438,8 +1438,8 @@
       "code": 20262,
       "label": "Summer 2026",
       "url": "https://classes.usc.edu/term/20262/catalogue/school",
-      "snapshotAt": "2026-11-19T22:35:10.942Z",
-      "snapshot": "11/19/2026, 2:35:10 PM PST",
+      "snapshotAt": "2026-11-20T18:43:53.271Z",
+      "snapshot": "11/20/2026, 10:43:53 AM PST",
       "error": null
     }
   }
