@@ -1,7 +1,137 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T18:45:48.771Z",
+  "generatedAt": "2026-11-21T20:57:20.006Z",
   "terms": {
+    "summer": {
+      "rows": [
+        {
+          "id": "20262:10258",
+          "section": "10258",
+          "prefix": "ACAD",
+          "number": "419",
+          "title": "Professional Internship",
+          "enrolled": 14,
+          "capacity": 20,
+          "credits": null
+        },
+        {
+          "id": "20262:10260",
+          "section": "10260",
+          "prefix": "ACAD",
+          "number": "419",
+          "title": "Professional Internship",
+          "enrolled": 2,
+          "capacity": 5,
+          "credits": null
+        },
+        {
+          "id": "20262:10262",
+          "section": "10262",
+          "prefix": "ACAD",
+          "number": "419",
+          "title": "Professional Internship",
+          "enrolled": 0,
+          "capacity": 5,
+          "credits": null
+        },
+        {
+          "id": "20262:10263",
+          "section": "10263",
+          "prefix": "ACAD",
+          "number": "419",
+          "title": "Professional Internship",
+          "enrolled": 2,
+          "capacity": 2,
+          "credits": null
+        },
+        {
+          "id": "20262:10259",
+          "section": "10259",
+          "prefix": "ACAD",
+          "number": "490",
+          "title": "Directed Research",
+          "enrolled": 1,
+          "capacity": 1,
+          "credits": null
+        },
+        {
+          "id": "20262:34077",
+          "section": "34077",
+          "prefix": "IDSN",
+          "number": "521",
+          "title": "Designing Brand Identity for Startups",
+          "enrolled": 8,
+          "capacity": 25,
+          "credits": 2
+        },
+        {
+          "id": "20262:34091",
+          "section": "34091",
+          "prefix": "IDSN",
+          "number": "529",
+          "title": "Marketing Strategy for Startups",
+          "enrolled": 17,
+          "capacity": 25,
+          "credits": 3
+        },
+        {
+          "id": "20262:34142",
+          "section": "34142",
+          "prefix": "IDSN",
+          "number": "560",
+          "title": "Narratives and Interactive Storytelling",
+          "enrolled": 8,
+          "capacity": 25,
+          "credits": 4
+        },
+        {
+          "id": "20262:34172",
+          "section": "34172",
+          "prefix": "IDSN",
+          "number": "590",
+          "title": "Directed Research",
+          "enrolled": 1,
+          "capacity": 1,
+          "credits": null
+        },
+        {
+          "id": "20262:34173",
+          "section": "34173",
+          "prefix": "IDSN",
+          "number": "590",
+          "title": "Directed Research",
+          "enrolled": 1,
+          "capacity": 1,
+          "credits": null
+        },
+        {
+          "id": "20262:34174",
+          "section": "34174",
+          "prefix": "IDSN",
+          "number": "590",
+          "title": "Directed Research",
+          "enrolled": 1,
+          "capacity": 1,
+          "credits": null
+        }
+      ],
+      "totals": {
+        "enrollment": 55,
+        "capacity": 111,
+        "available": 56,
+        "sections": 11,
+        "sch": 99,
+        "omittedSections": 8,
+        "omittedEnrollment": 22
+      },
+      "excluded": [],
+      "code": 20262,
+      "label": "Summer 2026",
+      "url": "https://classes.usc.edu/term/20262/catalogue/school",
+      "snapshotAt": "2026-11-21T20:57:17.493Z",
+      "snapshot": "11/21/2026, 12:57:17 PM PST",
+      "error": null
+    },
     "fall": {
       "rows": [
         {
@@ -608,138 +738,8 @@
       "code": 20253,
       "label": "Fall 2025",
       "url": "https://classes.usc.edu/term/20253/catalogue/school",
-      "snapshotAt": "2026-11-20T18:45:48.381Z",
-      "snapshot": "11/20/2026, 10:45:48 AM PST",
-      "error": null
-    },
-    "summer": {
-      "rows": [
-        {
-          "id": "20262:10258",
-          "section": "10258",
-          "prefix": "ACAD",
-          "number": "419",
-          "title": "Professional Internship",
-          "enrolled": 14,
-          "capacity": 20,
-          "credits": null
-        },
-        {
-          "id": "20262:10260",
-          "section": "10260",
-          "prefix": "ACAD",
-          "number": "419",
-          "title": "Professional Internship",
-          "enrolled": 2,
-          "capacity": 5,
-          "credits": null
-        },
-        {
-          "id": "20262:10262",
-          "section": "10262",
-          "prefix": "ACAD",
-          "number": "419",
-          "title": "Professional Internship",
-          "enrolled": 0,
-          "capacity": 5,
-          "credits": null
-        },
-        {
-          "id": "20262:10263",
-          "section": "10263",
-          "prefix": "ACAD",
-          "number": "419",
-          "title": "Professional Internship",
-          "enrolled": 2,
-          "capacity": 2,
-          "credits": null
-        },
-        {
-          "id": "20262:10259",
-          "section": "10259",
-          "prefix": "ACAD",
-          "number": "490",
-          "title": "Directed Research",
-          "enrolled": 1,
-          "capacity": 1,
-          "credits": null
-        },
-        {
-          "id": "20262:34077",
-          "section": "34077",
-          "prefix": "IDSN",
-          "number": "521",
-          "title": "Designing Brand Identity for Startups",
-          "enrolled": 8,
-          "capacity": 25,
-          "credits": 2
-        },
-        {
-          "id": "20262:34091",
-          "section": "34091",
-          "prefix": "IDSN",
-          "number": "529",
-          "title": "Marketing Strategy for Startups",
-          "enrolled": 17,
-          "capacity": 25,
-          "credits": 3
-        },
-        {
-          "id": "20262:34142",
-          "section": "34142",
-          "prefix": "IDSN",
-          "number": "560",
-          "title": "Narratives and Interactive Storytelling",
-          "enrolled": 8,
-          "capacity": 25,
-          "credits": 4
-        },
-        {
-          "id": "20262:34172",
-          "section": "34172",
-          "prefix": "IDSN",
-          "number": "590",
-          "title": "Directed Research",
-          "enrolled": 1,
-          "capacity": 1,
-          "credits": null
-        },
-        {
-          "id": "20262:34173",
-          "section": "34173",
-          "prefix": "IDSN",
-          "number": "590",
-          "title": "Directed Research",
-          "enrolled": 1,
-          "capacity": 1,
-          "credits": null
-        },
-        {
-          "id": "20262:34174",
-          "section": "34174",
-          "prefix": "IDSN",
-          "number": "590",
-          "title": "Directed Research",
-          "enrolled": 1,
-          "capacity": 1,
-          "credits": null
-        }
-      ],
-      "totals": {
-        "enrollment": 55,
-        "capacity": 111,
-        "available": 56,
-        "sections": 11,
-        "sch": 99,
-        "omittedSections": 8,
-        "omittedEnrollment": 22
-      },
-      "excluded": [],
-      "code": 20262,
-      "label": "Summer 2026",
-      "url": "https://classes.usc.edu/term/20262/catalogue/school",
-      "snapshotAt": "2026-11-20T18:45:48.767Z",
-      "snapshot": "11/20/2026, 10:45:48 AM PST",
+      "snapshotAt": "2026-11-21T20:57:17.553Z",
+      "snapshot": "11/21/2026, 12:57:17 PM PST",
       "error": null
     },
     "spring": {
@@ -1438,8 +1438,8 @@
       "code": 20261,
       "label": "Spring 2026",
       "url": "https://classes.usc.edu/term/20261/catalogue/school",
-      "snapshotAt": "2026-11-20T18:45:48.770Z",
-      "snapshot": "11/20/2026, 10:45:48 AM PST",
+      "snapshotAt": "2026-11-21T20:57:20.005Z",
+      "snapshot": "11/21/2026, 12:57:20 PM PST",
       "error": null
     }
   }
